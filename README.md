@@ -1,2 +1,2 @@
-# Git-IBA-Python-begin
+# Git-Python-begin
 for my class n home works
